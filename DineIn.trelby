@@ -42,8 +42,8 @@ RemoveNotes:False
 OutlineNotes:True
 ShowMargins:False
 ShowLineNumbers:False
-Cursor/Line:50
-Cursor/Column:34
+Cursor/Line:77
+Cursor/Column:20
 String/MoreDialogue:(MORE)
 String/ContinuedPageEnd:(CONTINUED)
 String/ContinuedPageStart:CONTINUED:
@@ -183,34 +183,46 @@ Words:0
 ..Wife Dally _ Doomsberg
 ._Dilbert
 >:Come on down to Dilly Dally's! Exit
-|:17 off I-41. 
->:If you hit the Dinosour mini-golf
-.:you've gone too far!
+.:17 off I-41. 
 ._DILBERT
 >:We've got special deals every day
 |:of the week! 
->:Mondays Sausage links are buy one
-.:get one free
-..TODO need one more Dally based special near the begining
-|:
-|:Tuesdays 4 eggs any way for 4.99
->:Wednesdays we've got the Dally
-|:Scrambler for 7.99
->:Thursdays - because my wife Dally
->:is the apple of my eye we've got
-|:buy one get one apple pies!
-.:Fridays ______
-._DILBERT
-.:The
+>:Mondays Sausage links and patties
+>:are .99 cents a piece! And Tuesdays
+>:we've got the Dally Scrambler for
+.:7.99!
 ._DILBERT
 >:My Wife Dally and I met in the
 >:spring of '65. I remember like it
->:was yesterday. Dally's the reason I
-.:started this here Dine In
-._Dilbert
->:Her marvelous cooking was the
-.:reason we started this place!
-..Later
+>:was yesterday. It was love at first
+>:sight - and bite of her marvolous
+.:food!
+._DILBERT
+>:Tuesdays we've got 4 eggs any way
+|:for 4.99
+>:Wednesdays, because my wife Dally
+>:is the apple of my eye we've got
+|:buy one get one apple pies!
+>:And everyone knows Friday is Dally
+>:Doo's Can't Miss Fish Fry! 11.99
+>:for the tastiest catch this side of
+.:the Mississippi!
+._DILBERT
+>:When I married Dally my first
+>:promise as her husband was to build
+>:a Diner where her home cookin could
+.:shine!
+._DILBERT
+>:Weekend Specials! Saturday we've
+>:got 2 half rack ribs dunked in
+>:Dally's Secret Bar-b-que rub! First
+>:time I tasted it I nearly keeled
+>:over and died! Sunday's the lords
+.:day. We're closed on Sundays.
+._DILBERT
+>:I feel so eternally grateful to
+>:have Dally in my life. She's the
+.:best thing to ever happen to me.
 ._DILBERT
 >:Coming up we're hosting the Annual
 >:Dilly Dally Dine In 4th of July
@@ -236,5 +248,11 @@ Words:0
 .:take!
 ._DILBERT
 >:New in the month of June: Lil pork
-|:Doggys! Just 6.99 for a plate of 4
+.:Doggys! Just 6.99 for a plate of 4
+..Nothing is on Screen for a slide
+._DILBERT
+.:_______
+._DILBERT
+>:DON'T ANY YALL DARE COME NEAR ME N
+|:MY WIFE. SHE'S MINE 
 .: 
