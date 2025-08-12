@@ -42,8 +42,8 @@ RemoveNotes:False
 OutlineNotes:True
 ShowMargins:False
 ShowLineNumbers:False
-Cursor/Line:35
-Cursor/Column:31
+Cursor/Line:53
+Cursor/Column:32
 String/MoreDialogue:(MORE)
 String/ContinuedPageEnd:(CONTINUED)
 String/ContinuedPageStart:CONTINUED:
@@ -214,17 +214,21 @@ Words:0
 ._DILBERT
 >:Coming up we're hosting the Annual
 >:Dilly Dally Dine In 4th of July
->:spectacular! And yes, the Patriot
->:Pancakes are making a return for
-.:4.99 a piece!
+>:spectacular! We'll have fireworks
+.:running in the backyard all day!
 ._Dilbert
 >:I don't know what I would do if
 >:something happened to Dally.
 .:Probably something bad!
 ._Dilbert
+>:And yes, the Patriot Pancakes are
+.:making a return for 4.99 a piece!
+._DILBERT
+>:If Something happened to Dally
+.:there would be hell to pay.
+._DILBERT
 .:_____
 ._DILBERT
-.:
-.: 
-|:
+>:If any one of you touch a hair on
+|:dally's head I swear to fking go
 .: 
