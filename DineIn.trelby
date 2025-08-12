@@ -42,8 +42,8 @@ RemoveNotes:False
 OutlineNotes:True
 ShowMargins:False
 ShowLineNumbers:False
-Cursor/Line:85
-Cursor/Column:34
+Cursor/Line:80
+Cursor/Column:32
 String/MoreDialogue:(MORE)
 String/ContinuedPageEnd:(CONTINUED)
 String/ContinuedPageStart:CONTINUED:
@@ -239,7 +239,15 @@ Words:0
 >:If Something happened to Dally
 .:there would be hell to pay.
 ._DILBERT
-.:_____ Something longer than normal
+>:New this Year! Introducing the
+>:triple D rewards program! For every
+>:Entree, or alchohalic beverage you
+>:buy, you'll get a punch on you
+>:triple D rewards card! Get 20
+>:punches, turn that card in, and
+>:you'll get an Entree or alchohalic
+>:beverage for free! Just don't loose
+.:that card!
 ._DILBERT
 .((very angry)
 >:If any one of you touch a hair on
@@ -250,16 +258,6 @@ Words:0
 >:New in the month of June: Lil pork
 .:Doggys! Just 6.99 for a plate of 4
 ..Nothing is on Screen for a slide
-._DILBERT
->:New this Year! Introducing the
->:triple D rewards program! For every
->:Entree, or alchohalic beverage you
->:buy, you'll get a punch on you
->:triple D rewards card! Get 20
->:punches, turn that card in, and
->:you'll get an Entree or alchohalic
->:beverage for free! Just don't loose
-.:that card!
 ._DILBERT
 >:DON'T ANY YALL DARE COME NEAR ME N
 >:MY WIFE. I'LL FUCKIN KILL EACH AND
