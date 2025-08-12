@@ -42,8 +42,8 @@ RemoveNotes:False
 OutlineNotes:True
 ShowMargins:False
 ShowLineNumbers:False
-Cursor/Line:24
-Cursor/Column:0
+Cursor/Line:35
+Cursor/Column:31
 String/MoreDialogue:(MORE)
 String/ContinuedPageEnd:(CONTINUED)
 String/ContinuedPageStart:CONTINUED:
@@ -201,6 +201,30 @@ Words:0
 |:buy one get one apple pies!
 .:Fridays ______
 ._DILBERT
+.:The
+._DILBERT
+>:My Wife Dally and I met in the
+>:spring of '65. I remember like it
+>:was yesterday. Dally's the reason I
+.:started this here Dine In
+._Dilbert
+>:Her marvelous cooking was the
+.:reason we started this place!
+..Later
+._DILBERT
+>:Coming up we're hosting the Annual
+>:Dilly Dally Dine In 4th of July
+>:spectacular! And yes, the Patriot
+>:Pancakes are making a return for
+.:4.99 a piece!
+._Dilbert
+>:I don't know what I would do if
+>:something happened to Dally.
+.:Probably something bad!
+._Dilbert
+.:_____
+._DILBERT
 .:
+.: 
 |:
 .: 
