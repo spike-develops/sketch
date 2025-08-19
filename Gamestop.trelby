@@ -42,7 +42,7 @@ RemoveNotes:False
 OutlineNotes:True
 ShowMargins:False
 ShowLineNumbers:False
-Cursor/Line:19
+Cursor/Line:86
 Cursor/Column:8
 String/MoreDialogue:(MORE)
 String/ContinuedPageEnd:(CONTINUED)
@@ -187,14 +187,99 @@ Words:0
 .:You'll love it
 ._CUSTOMER
 >:Thanks, yea its for my daughter.
-.:She's really into party games**
+.:__________
 ._EMPLOYEE
->:Ah nice, thats so cool. I wish I
-.:had a kid.
+>:Oh then she'll love it. Cash or
+.:Card?
 ._CUSTOMER
-.:Ah- what?
+.:Card
+..CUSTOMER hands over his credit card
 ._EMPLOYEE
->:I wish I had a kid. A child of mine
-.:own
+>:Would you like to sign up for 
+.:Gamestop powerup rewards
 ._CUSTOMER
-.:Oh, nice.
+.:Ah no thats alright
+._EMPLOYEE
+>:Are you sure? It comes with a
+>:monthly digitial subscription to
+.:the GameInformer magazine?
+._CUSTOMER
+.:No thanks I appericiate it
+..Employee clacks away on the register for a bit
+._EMPLOYEE
+.((quickly)
+.:Wannacometomybirhtdayparty?
+._CUSTOMER
+.((leaning in)
+.:Sorry what?
+..Beat 
+._EMPLOYEE
+>:Wanna come to my birthday party?
+>:We're actually gonna be playing the
+.:new MP there
+._CUSTOMER
+.:MP?
+._EMPLOYEE
+>:Yea, Mario Party, the game you're
+.:buying?
+._CUSTOMER
+.:Ohhh, yea no I, don't think so I'm-
+._EMPLOYEE
+>:My sister Carolyn couldn't come
+>:becuase she had to go to a funeral
+.:so we're 1 short of a full party.
+..EMPLOYEE's energy is slowly increasing
+._CUSTOMER
+.:Oh, thats - Im sorry to hea-
+>_TODO ONE MORE SPECIFIC MARIO PARTY
+._REFERENCE
+._EMPLOYEE
+>:It's tonight. My shift ends in 15
+>:minutes and we're heading right
+>:there. We just cleaned out my mom's
+>:car so there's space in the back if
+.:you need a ride
+._CUSTOMER
+>:Hey Look Im really sorry but I just
+>:met you, I'm not coming to your
+.:birthday party.
+..Longer beat, Silence
+._EMPLOYEE
+.((defused)
+>:Would you like to sign up for
+>:Gamestop Powerup Rewards? It comes
+>:with a monthly digital subscription
+.:to the GameInformer magazine.
+._CUSTOMER
+.((frustrated)
+.:No, you already asked me that-
+._EMPLOYEE
+.((flaring anger)
+.:YEA Because you said NO last time.
+.. STUFF
+._CUSTOMER
+.:Is, the, chip reader broken or-
+._EMPLOYEE
+.((stern)
+.:I haven't ran your card yet.
+..SILENCE
+._CUSTOMER
+.:
+._
+.:
+._ 
+..________
+>.CUSTOMER starts walking out of the gamestop relieved. Right
+..as they open the door to leave:
+._EMPLOYEE
+.:I Hope you lose.
+..CUSTOMER stops, looks over sholder
+._CUSTOMER
+.:What?
+..Beat
+._EMPLOYEE
+>:I Hope that you're having a good
+>:game - feeling good - I hope your
+>:daughter is 2 stars and 20 coins
+.:behind about as
+.:

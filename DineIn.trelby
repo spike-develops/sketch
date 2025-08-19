@@ -42,8 +42,8 @@ RemoveNotes:False
 OutlineNotes:True
 ShowMargins:False
 ShowLineNumbers:False
-Cursor/Line:80
-Cursor/Column:32
+Cursor/Line:1
+Cursor/Column:0
 String/MoreDialogue:(MORE)
 String/ContinuedPageEnd:(CONTINUED)
 String/ContinuedPageStart:CONTINUED:
@@ -177,10 +177,8 @@ Words:0
 #Header-String 1,0,r,,${PAGE}.
 #Header-Empty-Lines 1
 #Start-Script 
-.\Int Happy PlaceD
-..Dilly Dallys Dine In
+.\Ad For DILLY DALLYS DINE IN
 ..Dilbert P Doomsberg
-..Wife Dally _ Doomsberg
 ._Dilbert
 >:Come on down to Dilly Dally's! Exit
 .:17 off I-41. 
