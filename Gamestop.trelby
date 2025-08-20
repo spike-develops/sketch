@@ -42,8 +42,8 @@ RemoveNotes:False
 OutlineNotes:True
 ShowMargins:False
 ShowLineNumbers:False
-Cursor/Line:141
-Cursor/Column:25
+Cursor/Line:8
+Cursor/Column:0
 String/MoreDialogue:(MORE)
 String/ContinuedPageEnd:(CONTINUED)
 String/ContinuedPageStart:CONTINUED:
@@ -169,7 +169,14 @@ Font/Bold-Italic/Filename:
 Locations:0
 #End-Locations 
 #Begin-Spell-Checker-Dict 
-Words:0
+Words:7
+Words/1:carolyn
+Words/2:gameinformer
+Words/3:hea
+Words/4:mp
+Words/5:powerup
+Words/6:slaparazzi
+Words/7:wannacometomybirthdayparty
 #End-Spell-Checker-Dict 
 #Title-String 0.000000,105.000000,24,cb,Helvetica,,UNTITLED SCREENPLAY
 #Title-String 0.000000,120.460000,12,c,Courier,,by\n\nMy Name Here
@@ -177,10 +184,13 @@ Words:0
 #Header-String 1,0,r,,${PAGE}.
 #Header-Empty-Lines 1
 #Start-Script 
-.\INT GAMESTOP
-..A man walks up to the register to buy the new Mario Party
+.\CuSTOMER - VOICE OF REASON
+..EMPLOYEE - MID 30'S GUY
+..INT GAMESTOP
+>.A man walks up to the register at gamestop with a copy of
+..the new Mario Party
 ._Customer
-.:Hows it going
+.:How's it going
 ._Employee
 >:Oh nice! The new Mario Party.
 .:You'll love it.
@@ -194,15 +204,15 @@ Words:0
 ..CUSTOMER hands over his credit card
 ._EMPLOYEE
 >:Would you like to sign up for 
-.:Gamestop powerup rewards?
+.:Gamestop PowerUp rewards?
 ._CUSTOMER
-.:Ah no thats alright
+.:Ah no that's alright
 ._EMPLOYEE
 >:Are you sure? It comes with a
->:monthly digitial subscription to
-.:the GameInformer magazine?
+>:monthly digital subscription to the
+.:GameInformer magazine?
 ._CUSTOMER
-.:No thanks I appericiate it
+.:No thanks I appreciate it
 ..Employee clacks away on the register for a bit
 ._EMPLOYEE
 .((quickly)
@@ -224,11 +234,11 @@ Words:0
 .:Ohhh, yea no I, don't think so I'm-
 ._EMPLOYEE
 >:My sister Carolyn couldn't come
->:becuase she had to go to a funeral
+>:because she had to go to a funeral
 .:so we're 1 short of a full party.
 ..EMPLOYEE's energy is slowly increasing
 ._CUSTOMER
-.:Oh, thats - Im sorry to hea-
+.:Oh, that's - Im sorry to hea-
 ._EMPLOYEE
 >:I'd let my mom play but she always
 .:picks Peach and ruins everything.
@@ -263,65 +273,69 @@ Words:0
 .((stern)
 .:I haven't ran your card yet.
 >.Longer beat - EMPLOYEE pulls themselves together and
-..slugishly starts ringing up CUSTOMER
+..sluggishly starts ringing up CUSTOMER
 ..They finish the transaction very stiffly
 >.CUSTOMER starts walking out of the gamestop relieved. Right
 ..as they open the door to leave:
 ._EMPLOYEE
 .:I Hope you lose.
-..CUSTOMER stops, looks over sholder
+..CUSTOMER stops, looks over shoulder
 ._CUSTOMER
 .:What?
 ._EMPLOYEE
 >:I Hope that you're having a good
->:game - you're feeling good - I hope
->:your daughter is 2 stars and 40
->:coins behind you - a firm lead -
->:you're not even afraid of the bonus
->:stars. you decide to buy a gold
->:pipe even though its useless as the
->:final turn has already started -
->:your win is inevitable regardless.
+>:game. I hope your daughter is 2
+>:stars and 40 coins behind you - a
+>:firm lead - you're not even afraid
+>:of the bonus stars. you decide to
+>:buy a gold pipe even though its
+>:useless as the final turn has
+>:already started - your win is
+|:inevitable regardless.
+|:
 >:Its your daughters turn. She roles
 >:a 6 - her age - you've memorized
 >:this course and don't even need to
->:watch the animation to know she's
+>:watch the screen to know she's
 >:about to land on a red space -
 >:further sealing her demise. But
 >:whats this? After she coughs up 6
 >:coins - her age - a block appears
 >:above her head - yoshi's head to be
 >:specific. Improbably she gets a
->:star from that hidden block.
+|:star from that hidden block. 
+|:
 >:Surprised isn't what you're feeling
 >:since you know it was the first of
 >:the game, and it falls within the
 >:normal distribution. No matter,
 >:you're still 1 star and 26 coins
->:ahead. Time for the minigame. 
->:Slaparazzi - you anhilatte your
+|:ahead. Time for the minigame.  
+|:
+>:Slaparazzi - you annihilate your
 >:daughter. She's not smart enough to
 >:know how to edge people out of the
 >:photograph by slap spamming.
 >:Pathetic. If your math is correct -
 >:and it is - this should seal the
 >:Minigame star cementing your
->:victory. You wait to see how your
->:path of gold is paved today. The
->:first bonus star: Slowpoke. You
->:can't win them all. Clearly your
->:daughter wins this one - she never
->:bought a single dice and only went
->:around the board once - funny how
->:these games reward mediocrity just
->:to keep losers playing. The final
+>:victory. You watch with boredom as
+|:the first bonus star is revealed: 
+|:
+>:Slowpoke. Clearly your daughter
+>:wins this one - she never bought a
+>:single dice and only went around
+>:the board once - funny how these
+>:games reward mediocrity. The final
 >:bonus is up next. The minigame star
 >:is statistically the most common so
 >:you don't get a chance to start to
 .:worry before the reveal: 
->:The Red Space Star. Only an imbicle
->:would add such an uninteresting and
->:pedestrian reward. You stand there,
+|:
+>:The Red Space Star. Only an
+>:imbecile would add such an
+>:uninteresting and pedestrian
+>:reward. You stand there,
 >:motionless, as your 6 year old
 >:daughter - her age - cheers and
 >:yips. "Daddy I won!" She screams.
