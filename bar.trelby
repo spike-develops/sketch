@@ -42,8 +42,8 @@ RemoveNotes:False
 OutlineNotes:True
 ShowMargins:False
 ShowLineNumbers:False
-Cursor/Line:100
-Cursor/Column:15
+Cursor/Line:2
+Cursor/Column:5
 String/MoreDialogue:(MORE)
 String/ContinuedPageEnd:(CONTINUED)
 String/ContinuedPageStart:CONTINUED:
@@ -169,7 +169,8 @@ Font/Bold-Italic/Filename:
 Locations:0
 #End-Locations 
 #Begin-Spell-Checker-Dict 
-Words:0
+Words:1
+Words/1:cooould
 #End-Spell-Checker-Dict 
 #Title-String 0.000000,105.000000,24,cb,Helvetica,,UNTITLED SCREENPLAY
 #Title-String 0.000000,120.460000,12,c,Courier,,by\n\nMy Name Here
@@ -231,7 +232,7 @@ Words:0
 .:think here...
 ._MAIN GUY
 >:Well I don't want you to FORCE It -
-.:I'm sure it'll come organicly.
+.:I'm sure it'll come organicaly.
 ..They sit for a minute
 ._TRENT
 .((serious)
@@ -239,7 +240,8 @@ Words:0
 .:at a bar?
 ..Beat
 ._MAIN GUY
-.:Oh yea thats, like, cool - I just -
+>:Oh yea that's, like, cool - I just
+.:-
 ._NORMAL GUY
 >:Yea it seems a bit reductive Trent
 .:- Im sure there's some better ones
@@ -254,7 +256,7 @@ Words:0
 ._MAIN GUY
 >:Haha yea that cooould work - I just
 >:don't think it really like -
->:encompassess my whole character
+>:encompasses my whole character
 .:though
 ._NORMAL GUY
 .:Oh, sure.
@@ -265,7 +267,7 @@ Words:0
 .:from it.
 ._NORMAL GUY
 >:Okay sure - lets see - you tripped
->:over the dumbells... You tore your
+>:over the dumbbells... You tore your
 >:achilles trying to catch yourself,
 >:and then you smashed your face on
 .:the bench press bar...
@@ -274,12 +276,12 @@ Words:0
 ._MAIN GUY
 >:IM NOT GETTING CALLED BAR. ITS A
 .:STUPID NICKNAME
-..Maybe we normalize by talking about the accilles
+..Maybe we normalize by talking about the achilles
 ..TODO
 >.Really dumb but he failed the bar? That could be the third
 ..thing if needed
 >.Maybe I turn the story of the gym into a group brainstorming
->.process, so MAIN GUY can interupt and mention he likes
+>.process, so MAIN GUY can interrupt and mention he likes
 >.achilles, but then TRENT immediately interjects you smashed
 >.your face on the bench press bar - then the 2-3 group people
 ..immediately get behind BAR as the nickname.
